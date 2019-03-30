@@ -10,6 +10,7 @@ source = C:/Programming/C++/
 destination = D:/Backup/Programming/C++/
 
 ignored = exe
+
 ^ With this it will ignore any files with .exe extension
 
 It will also create any missing directories up to target directory. You can add -l flag for more verbose output. It would output all scanned directories, all checked files and a representation of source directories trees.
